@@ -1,4 +1,6 @@
-## Hi there 👋
+## 僕はひいるです〜　(⁠＾⁠∇⁠＾⁠)⁠ﾉ⁠♪
+
+![Alt Text](nagatoyuki.gif)  ![Alt Text](sorachan.gif)
 
 <!--
 **Vitngu/Vitngu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
