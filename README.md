@@ -1,6 +1,6 @@
 ## 僕はひいるです〜　(⁠＾⁠∇⁠＾⁠)⁠ﾉ⁠♪
 
-| ![2](sorachan.gif) |
+| ![1](sorachan.gif) |
 | --- |
 <!--
 **Vitngu/Vitngu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
